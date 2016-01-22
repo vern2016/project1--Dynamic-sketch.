@@ -12,7 +12,7 @@ Project #1 -- create a dynamic sketch, including a scene, plus a creature that m
 + (Arms? Legs?)
 + Name displayed on body
 
---
+----
 
 1. Fork this "repo"  
 2. create a new file named "p1-lastname"  
