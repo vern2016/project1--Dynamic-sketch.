@@ -10,9 +10,9 @@ plus a dog that chases the dog-bone
 + tree with brown trunk (rectangle above horizon) and green leaves (ellipse) 
 + house -- with roof, door, and windows
 
-## Bone
-+ White dog-bone
-+ Appears at mouse position (mouseX,mouseY) When mouse is clicked
+## BONE
++ White dog-bone (white ellipses with rectangle between them)
++ Appears at mouse position (mouseX,mouseY) whenever mouse is clicked
 
 ## DOG:
 + Body, legs, tail, head, eye
@@ -22,4 +22,5 @@ plus a dog that chases the dog-bone
 
     1. Fork this "repo"  
     2. Create a new file named "p1-lastname"  
-      where __lastname__ is the first three or more letters of _YOUR_ last name.
+      where __lastname__ is  _YOUR_ last name 
+      _(first three or more letters)_
