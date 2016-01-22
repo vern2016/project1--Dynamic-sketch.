@@ -1,5 +1,5 @@
-# Project #1: dynamic sketch  
-Hero chases gold!
+# Project #1: dynamic sketch
+            Hero chases gold!
 + Scene with sky, grass, sun, tree, and house,  
 + Gold nugget that appears when mouse is clicked
 + Hero who chases the gold
