@@ -4,7 +4,7 @@ including a scene with two houses,
 plus a dog that moves from left to right.
 
 ## SCENE:
-+ sky
++ sky and sun
 + sun -- moves across the sky, at a random height
 + house -- with roof, door, and windows
 + grass (below the "horizon")
