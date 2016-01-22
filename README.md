@@ -1,5 +1,7 @@
 # p1
-Project #1 -- create a dynamic sketch, including a scene with two houses, plus a dog that moves.  
+Project #1 -- create a dynamic sketch,  
+including a scene with two houses,  
+plus a dog that moves from left to right.
 
 ## SCENE:
 + sky
