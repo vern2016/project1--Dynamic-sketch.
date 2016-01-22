@@ -20,7 +20,7 @@ plus a dog that chases the dog-bone
 
 ----
 
-    1. Fork this "repo"  
-    2. Create a new file named "p1-lastname"  
-      where **lastname** is  *YOUR* last name 
-      *(first three or more letters)*
+1. Fork this "repo"  
+2. Create a new file named "p1-lastname"  
+    where **lastname** is  *YOUR* last name 
+    *(first three or more letters)*
