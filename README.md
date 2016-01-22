@@ -22,6 +22,6 @@ plus a dog that chases the dog-bone
 
 # INSTRUCTIONS:
 1. Fork this "repo"  
-2. Create a new file named "p1-lastname"  
+2. Create a new file named `p1-lastname`  
     where **lastname** is  *YOUR* last name 
     *(first three or more letters)*
