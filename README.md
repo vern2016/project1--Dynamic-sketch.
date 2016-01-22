@@ -1,22 +1,41 @@
 # p1
-Project #1 -- create a dynamic sketch,  
-including a scene with sun, tree, and house,  
-plus a dog that chases the dog-bone
+Project #1 -- create a dynamic sketch, including a scene, a hero, and the gold nugget.
++ scene with sky, grass, sun, tree, and house,  
++ gold nugget that appears when mouse is clicked
++ hero who chases the gold
++ score _(increases by 100 when hero gets near enough to gold)
+
 
 ## SCENE:
 + sky
 + sun -- moves across the sky, at a random height
 + grass (below the "horizon")
-+ tree with brown trunk (rectangle above horizon) and green leaves (ellipse) 
++ tree with brown trunk (rectangle above horizon) and green leaves (ellipse at top of tree trunk) 
 + house -- with roof, door, and windows
+Add title, author, and messages
 
-## BONE
-+ White dog-bone (white ellipses with rectangle between them)
-+ Appears at mouse position (mouseX,mouseY) whenever mouse is clicked
+## GOLD
++ A sparkling gold nugget appears at mouse position (mouseX,mouseY) when mouse is clicked
 
-## DOG:
-+ Body, legs, tail, head, eye
-+ Dog always moves toward the bone
+## HERO     <img src=hero.png align=right>
++ shirt with name on it
++ pants and legs
++ arms
++ head and eyes
+
+## ACTION:  
+Hero moves toward the gold.
++ If hero is at (heroX,heroY) and gold is at (goldX,goldY),  
+then the following code will make the hero move toward the gold  
+at a rate that cuts the distance in half every 15 frames:
+````
+            heroX=  heroX  +  (goldX-heroX) / 15;
+            heroY=  heroY  +  (goldY-heroY) / 15;
+````
+When hero is close enough to the gold _(say, ten pixels)_,  
++ Add 100 to the score
++ Move gold to a new, random position
+Reduce the score by 1 point, every second (30 frames).
 
 ----
 
@@ -25,3 +44,11 @@ plus a dog that chases the dog-bone
 2. Create a new file named `p1-lastname`  
     where **lastname** is  *YOUR* last name 
     *(first three or more letters)*
+3. Do **not** use variable names that contain the word *`hero`*  
+Instead, make up a name for your "hero" and use it in the variable name, e.g.  
+````
+        float mickeyX, mickeyY;         // Position of Mickey (mickeyX,mickeyY).
+        float goldX, goldY;             // Position of the gold nugget.
+````
+
+
