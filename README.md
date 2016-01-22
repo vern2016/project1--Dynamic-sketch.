@@ -15,5 +15,5 @@ Project #1 -- create a dynamic sketch, including a scene, plus a creature that m
 ----
 
     1. Fork this "repo"  
-    2. create a new file named "p1-lastname"  
+    2. Create a new file named "p1-lastname"  
   where __lastname__ is the first three or more letters of _YOUR_ last name.
