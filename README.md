@@ -24,8 +24,8 @@ Add title, author, and messages
 
 ## ACTION:  
 **Hero moves toward the gold.**
-+ If hero is at `(heroX,heroY)` and gold `(goldX,goldY)`, the following code 
-makes hero move toward gold at a rate that cuts distance in half every 15 frames:
++ If hero is at `(heroX,heroY)` and gold `(goldX,goldY)`, then the following code  
+will make the hero move toward the gold  at a rate that cuts distance in half every 15 frames:
 ```
             heroX=  heroX  +  (goldX-heroX) / 15;
             heroY=  heroY  +  (goldY-heroY) / 15;
