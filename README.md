@@ -1,8 +1,8 @@
-# Project #1 -- create a dynamic sketch, including a scene, a hero, and the gold nugget.
-+ scene with sky, grass, sun, tree, and house,  
-+ gold nugget that appears when mouse is clicked
-+ hero who chases the gold
-+ score _(increases by 100 when hero gets near enough to gold)
+# Project #1 -- dynamic sketch with hero chasing gold:
++ Scene with sky, grass, sun, tree, and house,  
++ Gold nugget that appears when mouse is clicked
++ Hero who chases the gold
++ Score _(increases by 100 when hero gets near enough to gold)
 
 
 ## SCENE:
