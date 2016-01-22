@@ -1,5 +1,4 @@
-# p1
-Project #1 -- create a dynamic sketch, including a scene, a hero, and the gold nugget.
+# Project #1 -- create a dynamic sketch, including a scene, a hero, and the gold nugget.
 + scene with sky, grass, sun, tree, and house,  
 + gold nugget that appears when mouse is clicked
 + hero who chases the gold
