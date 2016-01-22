@@ -39,15 +39,22 @@ Reduce the score by 1 point, every second (30 frames).
 ----
 
 # INSTRUCTIONS:
-1. Fork this "repo"  
-2. Create a new file named `p1-lastname`  
-    where **lastname** is  *YOUR* last name 
+1. Fork this "repo" into your **Github** account
+2. Create a new file named **`p1-lastname`**  
+    where **`lastname`** is  *YOUR* last name 
     *(first three or more letters)*
-3. Do **not** use variable names that contain the word *`hero`*  
+3. Develop your code in the **Processing** P.D.E.
+4. Do **not** use variable names that contain the word **`hero`**  
 Instead, make up a name for your "hero" and use it in the variable name, e.g.  
-````
+```
         float mickeyX, mickeyY;         // Position of Mickey (mickeyX,mickeyY).
         float goldX, goldY;             // Position of the gold nugget.
-````
+```
+&nbsp;5. Copy and paste your working code into your Github file named **`p1-lastname`**  
+_(Make sure that code in Github will compile without syntax errors;  
+Please do not paste non-compiling code into your Github files.)_  
+**NOTE:** All code in Github is "open source" and available to everyone.  
 
-
+###Code Review
+Be prepared to discuss your code during **Code Review** sessions in class.  
+Also feel free to ask for help during **Code Review** sessions
