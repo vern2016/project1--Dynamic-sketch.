@@ -34,7 +34,7 @@ at a rate that cuts the distance in half every 15 frames:
 ```
 **When hero is close enough to the gold (say, ten pixels)**
 + Move gold to a new, random position
-+ Add 100 to the score
++ Add 100 to the score  
 Reduce the score by 1 point, every second (30 frames).
 
 ----
