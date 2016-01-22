@@ -1,6 +1,6 @@
 # Project #1:             Hero chases gold!
-**Dynamic sketch, including:**
-+ Scene with sky, grass, sun, tree, and house,  
+                        **Dynamic sketch, including:**
+                        + Scene with sky, grass, sun, tree, and house,  
 + Gold nugget that appears when mouse is clicked
 + Hero who chases the gold
 + Score _(increases by 100 when hero gets near enough to gold)
