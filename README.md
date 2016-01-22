@@ -1,7 +1,8 @@
 # p1
 Project #1 -- create a dynamic sketch, including a scene, plus a creature that moves.  
 
-# Fork this "repo" then create a new file named "p1-lastname"  
+# Fork this "repo"  
+then create a new file named "p1-lastname"  
   where __lastname__ is the first three or more letters of _YOUR_ last name.
 
 ## SCENE:
