@@ -1,18 +1,22 @@
 # p1
 Project #1 -- create a dynamic sketch,  
-including a scene with two houses,  
-plus a dog that moves from left to right.
+including a scene with sun, tree, and house,  
+plus a dog that chases the dog-bone
 
 ## SCENE:
-+ sky and sun
++ sky
 + sun -- moves across the sky, at a random height
-+ house -- with roof, door, and windows
 + grass (below the "horizon")
++ tree with brown trunk (rectangle above horizon) and green leaves (ellipse) 
++ house -- with roof, door, and windows
+
+## Bone
++ White dog-bone
++ Appears at mouse position (mouseX,mouseY) When mouse is clicked
 
 ## DOG:
 + Body, legs, tail, head, eye
-+ When mouse is clicked, start from mouse position (mouseX,mouseY)
-+ Move from left to right.
++ Dog always moves toward the bone
 
 ----
 
