@@ -24,16 +24,16 @@ Add title, author, and messages
 
 ## ACTION:  
 **Hero moves toward the gold.**
-+ If hero is at (heroX,heroY) and gold is at (goldX,goldY),  
-then the following code will make the hero move toward the gold  
-at a rate that cuts the distance in half every 15 frames:
++ If hero is at `(heroX,heroY)` and gold `(goldX,goldY)`,  
+then the following code will make hero move toward gold  
+at a rate that cuts distance in half every 15 frames:
 ```
             heroX=  heroX  +  (goldX-heroX) / 15;
             heroY=  heroY  +  (goldY-heroY) / 15;
 ```
 **When hero is close enough to the gold (say, ten pixels)**     <img src=hero.png align=right>
 + Move gold to a new, random position
-+ Add 100 to the score  
++ Add 100 to the score
 Reduce the score by 1 point, every second (30 frames).
 
 ----
