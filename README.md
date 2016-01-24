@@ -17,7 +17,7 @@ Add title, author, and messages
 + A sparkling gold nugget appears at mouse position (mouseX,mouseY) when mouse is clicked
 
 ## HERO     <img src=hero.png align=right>
-+ Draw a creature using rectangles, ellipses, triangles, etc.
++ Draw creature using a few shapes _(such as rectangles, triangles, circles, lines, etc.)_
 + Display the hero's **name** on the body
 
 ## ACTION:  
