@@ -5,7 +5,7 @@
 + Hero who chases the gold
 + Score _(increases by 100 when hero reaches the gold)_
 
-## SCENE:     <img src=hero.png align=right>
+## SCENE:     <img src="http://suffolk.li/cst112/61cst112/students/img/scene.png" WIDTH=96 align=right>
 + sky covers top portion of screen
 + grass below the *`horizon`*
 + sun moves across the sky, at a random height
@@ -13,10 +13,10 @@
 + house -- with roof, door, and windows
 Add title, author, and messages
 
-## GOLD     <img src=hero.png align=right>
+## GOLD     <img src="http://suffolk.li/cst112/61cst112/students/img/gold.png" WIDTH=32 align=right>
 + A sparkling gold nugget appears at mouse position (mouseX,mouseY) when mouse is clicked
 
-## HERO     <img src="http://suffolk.li/cst112/61cst112/img/mickey.png" align=right>
+## HERO     <img src="http://suffolk.li/cst112/61cst112/students/img/mickey.png" WIDTH=48 align=right>
 + Draw creature using a few shapes _(such as rectangles, triangles, circles, lines, etc.)_
 + Display the hero's **name** on the body
 
