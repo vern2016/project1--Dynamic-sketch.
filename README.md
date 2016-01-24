@@ -16,7 +16,7 @@ Add title, author, and messages
 ## GOLD     <img src=hero.png align=right>
 + A sparkling gold nugget appears at mouse position (mouseX,mouseY) when mouse is clicked
 
-## HERO     <img src=img/mickey.png align=right>
+## HERO     <img src="http://suffolk.li/cst112/61cst112/img/mickey.png" align=right>
 + Draw creature using a few shapes _(such as rectangles, triangles, circles, lines, etc.)_
 + Display the hero's **name** on the body
 
