@@ -17,10 +17,8 @@ Add title, author, and messages
 + A sparkling gold nugget appears at mouse position (mouseX,mouseY) when mouse is clicked
 
 ## HERO     <img src=hero.png align=right>
-+ shirt with name on it
-+ pants and legs
-+ arms
-+ head and eyes
++ Draw a creature using rectangles, ellipses, triangles, etc.
++ Display the hero's **name** on the body
 
 ## ACTION:  
 **Hero moves toward the gold.**
