@@ -13,7 +13,7 @@
 + house -- with roof, door, and windows
 Add title, author, and messages
 
-## GOLD     <img src="http://suffolk.li/img/gold.png" WIDTH=100 align=right>
+## GOLD     <img src="http://suffolk.li/img/Screen Shot 2016-02-01 at 4.56.53 PM.png" WIDTH=100 align=right>
 + A sparkling gold nugget appears at mouse position (mouseX,mouseY) when mouse is clicked
 
 ## HERO     <img src="http://suffolk.li/cst112/61cst112/students/img/mickey.png" WIDTH=48 align=right>
