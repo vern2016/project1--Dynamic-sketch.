@@ -25,8 +25,8 @@ Add title, author, and messages
 + If hero is at `(heroX,heroY)` and gold `(goldX,goldY)`, then the following code  
 will make the hero move toward the gold  at a rate that cuts distance in half every 15 frames:
 ```
-            heroX=  heroX  +  (goldX-heroX) / 15;
-            heroY=  heroY  +  (goldY-heroY) / 15;
+            xHero=  xHero  +  (xGold-xHero) / 15;
+            yHero=  yHero  +  (yGold-yHero) / 15;
 ```
 **When hero is close enough to the gold (say, ten pixels)**     <img src=hero.png align=right>
 + Move gold to a new, random position
@@ -44,8 +44,8 @@ Reduce the score by 1 point, every second (30 frames).
 4. Do **not** use variable names that contain the word **`hero`**  
 Instead, make up a name for your "hero" and use it in the variable name, e.g.  
 ```
-        float mickeyX, mickeyY;         // Position of Mickey (mickeyX,mickeyY).
-        float goldX, goldY;             // Position of the gold nugget.
+        float xMickey, yMickey;         // Position of Mickey (xMickey,yMickey).
+        float xGold, yGold;             // Position of the gold nugget.
 ```
 &nbsp;5. Copy and paste your working code into your Github file named **`p1-lastname.java`**  
 _(Make sure that code in Github will compile without syntax errors;  
