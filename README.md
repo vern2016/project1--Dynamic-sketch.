@@ -10,8 +10,8 @@
 + grass below the *`horizon`*
 + sun moves across the sky (behind house and tree!) at a random height
 + tree with brown trunk (rectangle above horizon) and green leaves (ellipse at top of tree trunk) 
-+ house -- with roof, door, and windows  
-Add title, author, and messages
++ house -- with roof, door, and windows
++ Add title, author, and messages
 
 ## GOLD     <img src="http://suffolk.li/img/Screen Shot 2016-02-01 at 4.56.53 PM.png" WIDTH=100 align=right>
 + A sparkling gold nugget appears at mouse position (mouseX,mouseY) when mouse is clicked
@@ -30,8 +30,8 @@ will make the hero move toward the gold  at a rate that cuts distance in half ev
 ```
 **When hero is close enough to the gold (say, ten pixels)**     <img src=hero.png align=right>
 + Move gold to a new, random position
-+ Add 100 to the score
-Reduce the score by 1 point, every second (30 frames).
++ Add 100 to the score  
++ Reduce the score by 1 point, every second (30 frames).
 
 ----
 
