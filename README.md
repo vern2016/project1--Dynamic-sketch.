@@ -32,7 +32,7 @@ will make the hero move toward the gold  at a rate that cuts distance in half ev
             //  Same technique may be used for a dog chasing hero.  
             //  _(Optional here, but part of next project.)_   
 ```  
-**When hero is close enough to the gold (say, ten pixels)**     <img src=hero.png align=right>
+**When hero is close enough to the gold (say, ten pixels)**     <img src=http://suffolk.li/cst112/61cst112/students/img/hero.png align=right>
 + Move gold to a new, random position
 + Add 100 to the score  
 
