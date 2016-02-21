@@ -8,9 +8,9 @@
 ## SCENE:     <img src="http://suffolk.li/img/tree.png" WIDTH=150 align=right>
 + sky covers top portion of screen
 + grass below the *`horizon`*
-+ sun moves across the sky, at a random height
++ sun moves across the sky (behind house and tree!) at a random height
 + tree with brown trunk (rectangle above horizon) and green leaves (ellipse at top of tree trunk) 
-+ house -- with roof, door, and windows
++ house -- with roof, door, and windows  
 Add title, author, and messages
 
 ## GOLD     <img src="http://suffolk.li/img/Screen Shot 2016-02-01 at 4.56.53 PM.png" WIDTH=100 align=right>
