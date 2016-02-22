@@ -28,10 +28,9 @@ will make the hero move toward the gold  at a rate that cuts distance in half ev
 ```
             xHero=  xHero  +  (xGold-xHero) / 15;
             yHero=  yHero  +  (yGold-yHero) / 15;
-            
-            //  Same technique may be used for a dog chasing hero.  
-            //  _(Optional here, but part of next project.)_   
 ```  
+                        //  Same technique may be used for a dog chasing hero.  
+                        //  _(Optional here, but part of next project.)_   
 **When hero is close enough to the gold (say, ten pixels)**     <img src=http://suffolk.li/img/hero.png align=right>
 + Move gold to a new, random position
 + Add 100 to the score  
